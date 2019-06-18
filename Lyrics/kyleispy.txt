@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Lyrics to &quot;iSpy&quot; song by KYLE: Man fuck... What's wrong Kyle? Man, these... kids, man, talking shit, making me feel bad Man... fuck..."> 
+<meta name="keywords" content="iSpy lyrics, KYLE iSpy lyrics, KYLE lyrics">
+<meta name="robots" content="noarchive">
+<meta property="og:image" content="//www.azlyrics.com/az_logo_tr.png">
+<title>KYLE Lyrics - iSpy</title>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link rel="stylesheet" href="//www.azlyrics.com/bsaz.css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+ArtistName = "KYLE";
+SongName = "iSpy";
+function submitCorrections(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+</script>
+</head>
+<body>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6772046" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6772046&cv=2.0&cj=1" alt="">
+</noscript>
+<!-- End comScore Tag -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <nav class="navbar navbar-default navbar-static-top noprint">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#search-collapse">
+        <span class="glyphicon glyphicon-search"></span>
+      </button>
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#artists-collapse">
+        <span class="glyphicon glyphicon-th-list"></span>
+      </button>
+      <a class="navbar-brand" href="//www.azlyrics.com"><img alt="AZLyrics.com" class="pull-left" style="max-height:40px; margin-top:-10px;" src="//www.azlyrics.com/az_logo_tr.png"></a>
+    </div>
+    <ul class="collapse navbar-collapse nav navbar-nav" id="artists-collapse">
+    <li>
+    <div class="btn-group text-center" role="group">
+    <a class="btn btn-menu" href="//www.azlyrics.com/a.html">A</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/b.html">B</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/c.html">C</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/d.html">D</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/e.html">E</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/f.html">F</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/g.html">G</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/h.html">H</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/i.html">I</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/j.html">J</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/k.html">K</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/l.html">L</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/m.html">M</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/n.html">N</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/o.html">O</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/p.html">P</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/q.html">Q</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/r.html">R</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/s.html">S</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/t.html">T</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/u.html">U</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/v.html">V</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/w.html">W</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/x.html">X</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/y.html">Y</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/z.html">Z</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/19.html">#</a>
+    </div>
+    </li>
+    </ul>
+
+    <div class="collapse navbar-collapse" id="search-collapse">
+
+        <form class="navbar-form navbar-right search" method="get" action="//search.azlyrics.com/search.php" role="search">
+         <div class="input-group">  
+		<input type="text" class="form-control" placeholder="" name="q" id="q">
+       		<span class="input-group-btn">
+            	  <button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+          	</span>
+ 	  </div>   
+	</form>
+
+    </div><!-- /.navbar-collapse -->
+    </div><!-- /.container -->
+  </nav>
+
+<!-- top ban -->
+  <div class="lboard-wrap noprint">
+  <div class="container">
+    <div class="row">
+       <div class="col-xs-12 top-ad text-center">
+         <span id="cf_banner_top_nofc"></span>
+       </div>
+    </div>
+  </div>
+  </div>
+
+<!-- main -->
+<div class="container main-page">
+<div class="row">
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+   <div class="sky-ad"></div>
+</div>
+
+<!-- content -->
+<div class="col-xs-12 col-lg-8 text-center">
+
+<div class="div-share noprint">
+<div class="fb-like" style="float:left;" data-href="https://www.azlyrics.com/lyrics/kyle/ispy.html" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#username=azlyrics"></script>
+<div class="addthis_toolbox addthis_default_style" style="float:right;">
+<a class="btn btn-xs btn-share addthis_button_email">
+<span class="playblk"><img src="//www.azlyrics.com/images/email.svg" width="56" height="18" class="playblk" alt="Email"></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_print" style="margin-right: 0px !important;">
+<span class="playblk"><img src="//www.azlyrics.com/images/print.svg" width="56" height="18" class="playblk" alt="Print"></span>
+</a>
+</div>
+</div>
+<!-- AddThis Button END -->
+
+<div class="div-share"><h1>"iSpy" lyrics</h1></div>
+
+<div class="lyricsh">
+<h2><b>KYLE Lyrics</b></h2>
+</div>
+
+<div class="ringtone">
+<span id="cf_text_top"></span>
+</div>
+
+<b>"iSpy"</b><br>
+<span class="feat">(with Lil Yachty)</span><br>
+<br>
+
+<div>
+<!-- Usage of azlyrics.com content by any third-party lyrics provider is prohibited by our licensing agreement. Sorry about that. -->
+<i>[Kyle &amp; Lil Yachty:]</i><br>
+Man fuck...<br>
+What's wrong Kyle?<br>
+Man, these... kids, man, talking shit, making me feel bad<br>
+Man... fuck them kids, bro. Look around, bro, look at life<br>
+Man, you're right<br>
+Mmm... you see, you see these fine bitches over here?<br>
+Yeah, whoa<br>
+You see these trees, man? You see this water?<br>
+I guess it is okay<br>
+Come on, man, you got so much more to appreciate, man<br>
+Man, you know what... y-you're right<br>
+You damn right I'm right. I can't remember a time I was goddamn wrong<br>
+Man, thanks, Lil Boat<br>
+Hey, man, that's what I'm here for<br>
+<br>
+<i>[Kyle:]</i><br>
+I ain't been gettin' high...<br>
+Well, maybe a little, baby, I don't wanna lie<br>
+I know when you text me girl, I don't always reply<br>
+Well, you're not an angel either, you can't even fly<br>
+I notice, you think that you know shit<br>
+All this shade that's coming at me, I wonder who throws it<br>
+They can't see the vision, boy, they must be out of focus<br>
+That's a real hot album, homie, I wonder who wrote it, oh, shit<br>
+Otay, pray them niggas go away<br>
+Always hella clowns around it look like Cirque Du Soleil<br>
+This is not the album either, these are just the throwaways<br>
+This shit still so cold when it drop, it's gonna be a motherfucking snow day<br>
+Aye, boy is good and he knows it, he don't say it, he shows it<br>
+I am just like DeRozan, if I shoot it, it goes in<br>
+I am in Cali just coastin', get 'em so wet they need coasters<br>
+I got a selfie with Oprah, I just ain't never post it<br>
+And I'm in my happy place posted, I ain't frown since '06<br>
+I ain't cried since '01, my pad like Six Flags and your house is no fun<br>
+You can come back to mine though, your friend ain't cute, but it's fine though<br>
+We gon' end on a high note<br>
+<br>
+I spy with my little eye<br>
+A girlie I can get 'cause she don't get too many likes<br>
+A curly-headed cutie I can turn into my wife<br>
+Wait, that means forever, ever, hold up, never mind<br>
+Oh, I...I spy with my little eye<br>
+A girlie I can get 'cause she don't get too many likes<br>
+A curly-headed cutie I can turn into my wife<br>
+Wait, that means forever, ever, hold up, never mind<br>
+<br>
+Oh, I, I spy with my little eye<br>
+I spy, I spy with my little eye<br>
+Oh, I, I spy with my little eye<br>
+I spy, I spy with my little eye<br>
+Oh, I...<br>
+<br>
+<i>[Lil Yachty:]</i><br>
+She said she twenty-one, I might have to I.D. that<br>
+All my bitches come in pairs like balls in my nutsack<br>
+I remember riding around the city in a Hatchback<br>
+Lookin' for a problem with my young goblins<br>
+I'mma send a model home with her neck throbbin'<br>
+I done made so much money that it's non-stoppin'<br>
+Got my brothers on my back like the last name<br>
+I remember tellin' everyone I couldn't be tamed<br>
+Whoa, six months later I had snapped and now I'm in the game<br>
+Went from fake chains to diamonds in another lane<br>
+Went from &quot;Can you take me here?&quot; to screening out the lane<br>
+Went from &quot;Damn, this nigga lame&quot; to remember my name<br>
+So I remember all the people who ain't fucked with me<br>
+They went to college now all them niggas is history<br>
+Upgraded from gold to diamonds in my teeth<br>
+Riding deep in the van, like we lookin' for a mystery<br>
+Raggy!<br>
+So, don't fuck with me. No, lately I been livin' like luxury<br>
+Boat and Kyle stick together like piano keys<br>
+And on my mother's mother, I won't fuck a bitch without a damn rubber<br>
+<br>
+<i>[Kyle:]</i><br>
+I spy with my little eye<br>
+A girlie I can get 'cause she don't get too many likes<br>
+A curly-headed cutie I can turn into my wife<br>
+Wait, that means forever, ever, hold up, never mind<br>
+Oh, I... I spy with my little eye<br>
+A girlie I can get 'cause she don't get too many likes<br>
+A curly-headed cutie I can turn into my wife<br>
+Wait, that means forever, ever, hold up, never mind<br>
+<br>
+Oh, I, I spy with my little eye<br>
+I spy, I spy with my little eye<br>
+Oh, I, I spy with my little eye<br>
+I spy, I spy with my little eye<br>
+Oh, I...
+</div>
+
+<br><br>
+
+<!-- MxM banner -->
+<div class="noprint">
+<script>
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="//adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_16202443/su_0/rs_0/tr_3vUCAHpnkvG4Zg6x9w6hOaFHHCL2ImsfQmsQwJXc5Gi2m1YeQPv7Muduw6hA59VPwgCXUOq5AsIu4YdbE3lZzpe32-qdAjdGVpZzKtLhQIblEYnNOL4wfgU4s64w0XFqME4i8e0HbOEjBVa1nWWHLPpCgBbpYpHeMO-DyxlQM25QbdJNuTVWtDuMLBLvQ80ExdoVtPofkQ6xb9HzTQ0qMQCvKmWd7ANl6t7sjDLn3gLrRypjaO-2Mf8n8RpzDKt462jjqzGS6kj-vQlDS_hEgG42aqg_RqMoVzY6ZR3sT74xirGInbuwXcd03Yg8XCAFfn4VeuA0otParx4kJsqgWSuxfIGNrPLO9SbNiJgNOxW9wtRY9oCKktDw9_y1ODxg_LADXGCnJA_UXknW9_pqrjb8XVwVeAknCzKAdKsB30MhAC1Fc7gMnR79UkFSi67RLQxhtEPHtvS2/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+</script>
+<br><br>
+</div>
+
+<form id="addsong" action="../../add.php" method="post">
+<input type="hidden" name="what" value="add_song">
+<input type="hidden" name="artist" value="KYLE">
+<input type="hidden" name="artist_id" value="6620">
+</form>
+
+<form id="corlyr" action="../../add.php" method="post">
+<input type="hidden" name="what" value="correct_lyrics">
+<input type="hidden" name="song_id" value="516069">
+</form>
+
+<div class="smt noprint">
+<a class="btn btn-share" href="#" onclick="submitCorrections()"><span class="glyphicon glyphicon-pencil"></span> Submit Corrections</a>
+</div>
+
+<div class="smt"><small>Thanks to Mikaela Hendrick, shadyfan, Sadie, Davyn, Agave Syrup Gaming for correcting these lyrics.<br></small>
+</div>
+
+<div class="noprint" style="padding: 15px 0">
+<span id="cf_text_bottom"></span>
+</div>
+
+<!-- credits -->
+<div class="smt"><small>Writer(s): Miles McCollum, KYLE HARVEY</small>
+<br>
+</div>
+
+<!-- song facts -->
+
+<!-- artist link -->
+<ol class="breadcrumb noprint" itemscope itemtype="https://schema.org/BreadcrumbList">
+  <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="//www.azlyrics.com"><span itemprop="name">AZLyrics</span></a></li>
+  <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="//www.azlyrics.com/k.html"><span itemprop="name">K</span></a></li>
+  <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="//www.azlyrics.com/k/kyle.html"><span itemprop="name">KYLE Lyrics</span></a></li>
+</ol>
+
+<!-- album songlists -->
+<div class="panel songlist-panel noprint">
+album: <b>"Light Of Mine"</b> (2018)<br><br>
+<a href="upsdowns.html">Ups &amp; Downs</a><br>
+<a href="cominggoing.html">Coming, Going?</a><br>
+<a href="zoom.html">Zoom</a><br>
+<a href="ikuyo.html">Ikuyo</a><br>
+<a href="games.html">Games</a><br>
+<a href="babies.html">Babies</a><br>
+<a href="opendoors.html">OpenDoors</a><br>
+<a href="tothemoon.html">To The Moon</a><br>
+<a href="playinwitme.html">Playinwitme</a><br>
+<a href="imissme.html">iMissMe</a><br>
+<a href="shiptrip.html">ShipTrip</a><br>
+<a href="rodeo.html">Rodeo</a><br>
+<a href="itsyours.html">It's Yours</a><br>
+<a href="clouds.html">Clouds</a><br>
+<a href="ispy.html">iSpy</a><br>
+</div>
+
+<!-- album songlists end -->
+
+        <form class="search noprint" method="get" action="//search.azlyrics.com/search.php" role="search">
+         <div style="margin-bottom:15px" class="input-group">  
+		<input type="text" class="form-control" placeholder="" name="q">
+       		<span class="input-group-btn">
+            	  <button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+          	</span>
+ 	  </div>   
+	</form>
+
+<div class="noprint visible-xs-block" style="margin-top:5px;margin-bottom:5px">
+<span id="cf_rect_bottom"></span>
+</div>
+
+</div> <!-- content -->
+
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+   <div class="sky-ad"></div>
+</div>
+</div>
+</div>  <!-- container main-page -->
+
+<!-- nav bottom -->
+       <nav class="navbar navbar-default navbar-bottom">
+          <div class="container text-center">
+          <ul class="nav navbar-nav navbar-center">
+            <li><a href="//www.azlyrics.com/add.php" onclick="document.forms['addsong'].submit();return false;">Submit Lyrics</a></li>
+            <li><a href="//www.stlyrics.com">Soundtracks</a></li>
+            <li><a href="//www.facebook.com/pages/AZLyricscom/154139197951223">Facebook</a></li>
+            <li><a href="//www.azlyrics.com/contact.html">Contact Us</a></li>
+          </ul>
+          </div> 
+        </nav>
+
+<!-- bot ban -->
+  <div class="lboard-wrap noprint">
+  <div class="container">
+    <div class="row">
+       <div class="col-xs-12 top-ad text-center">
+          <span id="cf_banner_bottom"></span>
+       </div>
+    </div>
+  </div>
+  </div>
+
+<!-- footer -->
+     <nav class="navbar navbar-footer noprint">
+          <div class="container text-center">
+          <ul class="nav navbar-nav navbar-center">
+            <li><a href="//www.azlyrics.com/adv.html">Advertise Here</a></li>
+            <li><a href="//www.azlyrics.com/privacy.html">Privacy Policy</a></li>
+            <li><a href="//www.azlyrics.com/copyright.html">DMCA Policy</a></li>
+          </ul>
+          </div> 
+     </nav>
+     <div class="footer-wrap">
+          <div class="container">
+          <div class="noprint"><span style="font-weight:bold;line-height:54px;vertical-align:top;">Powered by </span><img src="//www.azlyrics.com/images/mxm.png" width="184" height="54" alt="MusixMatch"></div>
+          <small>
+             KYLE lyrics are property and copyright of their owners. "iSpy" lyrics provided for educational purposes and personal use only.<br>
+             <script type="text/javascript">
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             </script>
+          </small>
+          </div>
+     </div>
+
+<script>
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "urban";
+</script>
+<script src="//cdn.clickfuse.com/publishers/azlyrics/single.min.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    <div id="CssFailCheck" class="hidden" style="height:1px;"></div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="//www.azlyrics.com/local/jquery.min.js"><\/script>')</script>
+    <script>
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="//www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="//www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    </script>
+    <script src="//www.azlyrics.com/collapse.js"></script>
+    <script type="text/javascript" src="https://tracking.musixmatch.com/t1.0/m_js/e_0/sn_0/l_16202443/su_0/rs_0/tr_3vUCAHpnkvG4Zg6x9w6hOaFHHCL2ImsfQmsQwJXc5Gi2m1YeQPv7Muduw6hA59VPwgCXUOq5AsIu4YdbE3lZzpe32-qdAjdGVpZzKtLhQIblEYnNOL4wfgU4s64w0XFqME4i8e0HbOEjBVa1nWWHLPpCgBbpYpHeMO-DyxlQM25QbdJNuTVWtDuMLBLvQ80ExdoVtPofkQ6xb9HzTQ0qMQCvKmWd7ANl6t7sjDLn3gLrRypjaO-2Mf8n8RpzDKt462jjqzGS6kj-vQlDS_hEgG42aqg_RqMoVzY6ZR3sT74xirGInbuwXcd03Yg8XCAFfn4VeuA0otParx4kJsqgWSuxfIGNrPLO9SbNiJgNOxW9wtRY9oCKktDw9_y1ODxg_LADXGCnJA_UXknW9_pqrjb8XVwVeAknCzKAdKsB30MhAC1Fc7gMnR79UkFSi67RLQxhtEPHtvS2/"></script>
+  </body>
+</html>

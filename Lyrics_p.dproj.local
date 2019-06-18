@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/03 17:59:43.269.pas,C:\Users\User1\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\User1\Desktop\programming\Pat 2018\Experimentation\Lyrics downloader\lyrics_u.pas</Transaction>
+    <Transaction>2018/03/03 17:59:43.288.dfm,C:\Users\User1\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\User1\Desktop\programming\Pat 2018\Experimentation\Lyrics downloader\lyrics_u.dfm</Transaction>
+    <Transaction>2018/03/03 17:59:52.194.dproj,C:\Users\User1\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\User1\Desktop\programming\Pat 2018\Experimentation\Lyrics downloader\Lyrics_p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

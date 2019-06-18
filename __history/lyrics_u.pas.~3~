@@ -1,0 +1,50 @@
+unit lyrics_u;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, OleCtrls, SHDocVw;
+
+type
+  TForm2 = class(TForm)
+    Edit1: TEdit;
+    Memo1: TMemo;
+    Button1: TButton;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form2: TForm2;
+
+implementation
+
+{$R *.dfm}
+
+procedure WB_SaveAs_HTML(WB: TWebBrowser; const FileName: string);
+var
+  PersistStream: IPersistStreamInit;
+  Stream: IStream;
+  FileStream: TFileStream;
+begin
+  if not Assigned(WB.Document) then
+  begin
+    ShowMessage('Document not loaded!');
+    Exit;
+  end;
+
+  PersistStream := WB.Document as IPersistStreamInit;
+  FileStream := TFileStream.Create(FileName, fmCreate);
+  try
+    Stream := TStreamAdapter.Create(FileStream, soReference) as IStream;
+    if Failed(PersistStream.Save(Stream, True)) then
+      ShowMessage('SaveAs HTML fail!');
+  finally
+    FileStream.Free;
+  end;
+end;
+
+end.
